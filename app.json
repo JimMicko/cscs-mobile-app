@@ -1,24 +1,24 @@
 {
   "expo": {
-    "name": "​",
+    "name": "celeste",
     "slug": "cscs-mobile-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "cscsmobileapp",
+    "scheme": "celeste",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
       "icon": "./assets/images/icon.png",
       "supportsTablet": true,
-      "bundleIdentifier": "com.jimmicko.cscsmobileapp",
-      "bundleDisplayName": "​",
+      "bundleIdentifier": "com.celeste.app",
+      "bundleDisplayName": "celeste",
       "infoPlist": {
         "UIBackgroundModes": ["location"]
       }
     },
     "android": {
-      "package": "com.jimmicko.cscsmobileapp",
+      "package": "com.celeste.app",
       "usesCleartextTraffic": true,
       "adaptiveIcon": {
         "backgroundColor": "#ffffff",
